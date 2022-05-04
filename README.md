@@ -2,16 +2,16 @@
 
 ## Download
 
-To download this app or this app source code, visit the release page.
+Untuk mendownloadnya, kunjungi halaman Releases.
 
-## More Info
+## Info Lebih Lanjut
 
-Support me, my youtube channel, etc:
+TRAKTIR / WEBSITE / YOUTUBE / TWITTER:
 
 - https://shbfrlnc.github.io
 
 ## Intro
 
-ANSNDMTR is an Android app for measuring sound amplitude.
+ANSNDMTR adalah aplikasi Android untuk mengukur amplitudo suara.
 
-You need Android Studio to open this project files.
+Untuk memodifikasinya, Anda memerlukan Android Studio.
