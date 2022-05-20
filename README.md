@@ -15,3 +15,11 @@ WEBSITE:
 ANSNDMTR adalah aplikasi Android untuk mengukur amplitudo suara.
 
 Untuk memodifikasinya, Anda memerlukan Android Studio.
+
+## Screencast
+
+- https://www.youtube.com/playlist?list=PLOg7o5N1MDWSs-vq9C4_l0HPFHa9DZz7M
+
+## Screenshot
+
+![ScreenShot](assets/ANSNDMTR-Screenshot-Small.png?raw=true)
